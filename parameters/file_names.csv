@@ -1,0 +1,5 @@
+model return file,data/model_returns_file.h5
+output directory,results/
+optimal weights file,optimal_weights.csv
+returns file suffix,Returns.csv
+summary file,summary.csv

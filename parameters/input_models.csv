@@ -1,0 +1,5 @@
+Model Name,Returns File,Header,Date Column,Returns Column,Min Weight,Max Weight
+S&P 500,data/sample/SPY.csv,,,,0.0,2.0
+10 year Treasury,data/sample/TLT.csv,,,,0.0,2.0
+High yield,data/sample/HYG.csv,,,,0.0,2.0
+Gold,data/sample/GLD.csv,,,,0.0,2.0
