@@ -19,7 +19,7 @@ from calcPerformanceMetrics import getAllTimeStats
 from assignWeights import assignWeights
 
 # Value that we want to maximize (sign = -1 --> minimizing)
-# Optimizer runs to minimize, so always set sign to -1
+# Optimizer runs to minimize, so often set sign to -1
 # Have included other potential choices for optimization in the comments below
 def maximizeFunction (returns_df, sign=-1.0):
 
